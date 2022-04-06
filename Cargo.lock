@@ -1,4 +1,4 @@
 [[package]]
-name = "tutorial-rust-docker"
+name = "rust_app"
 version = "0.1.0"
 
